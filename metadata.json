@@ -1,0 +1,5 @@
+{
+  "name": "AI E-Learning Platform",
+  "description": "An MVP E-Learning Platform that transforms a YouTube playlist into a structured course with AI-powered summaries and progress tracking. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
